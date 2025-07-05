@@ -1,0 +1,15 @@
+.containar-1 {
+      border: 2px solid red;
+      display: flex;
+}
+
+img {
+      height: 300px;
+      width: 500px;
+}
+
+.containt {
+      margin-left: 50px;
+      align-items: center;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+}
