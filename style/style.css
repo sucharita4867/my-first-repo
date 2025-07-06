@@ -26,10 +26,3 @@ img {
       /* align-items: center; */
       font-family: Georgia, 'Times New Roman', Times, serif;
 }
-
-.background {
-      height: 500px;
-      background-repeat: no-repeat;
-      background-image: url(../images/background2.jpg);
-      background-size: cover;
-}
