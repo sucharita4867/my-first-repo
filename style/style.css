@@ -31,3 +31,17 @@ img {
 .input-text {
       margin: 0px;
 }
+
+.input-heading {
+      border: 2px solid black;
+      text-align: center;
+}
+
+.inputcover {
+      height: 500px;
+      border: 2px solid purple;
+      background-image: url(../images/coverphoto.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: right 35% bottom 45%;
+}
