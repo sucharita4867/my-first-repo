@@ -11,6 +11,7 @@
       box-shadow: 18px 15px 30px gray;
       display: flex;
       margin-bottom: 70px;
+      border-radius: 8px;
 }
 
 img {
@@ -25,4 +26,8 @@ img {
       margin-left: 30px;
       /* align-items: center; */
       font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.input-text {
+      margin: 0px;
 }
