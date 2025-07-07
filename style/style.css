@@ -48,5 +48,6 @@ img {
 
 .input-heading label {
       display: block;
-      text-align: start;
+      /* text-align: start; */
+      color: white;
 }
