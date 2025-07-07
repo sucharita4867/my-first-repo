@@ -45,3 +45,8 @@ img {
       background-size: cover;
       background-position: right 35% bottom 45%;
 }
+
+.input-heading label {
+      display: block;
+      text-align: start;
+}
